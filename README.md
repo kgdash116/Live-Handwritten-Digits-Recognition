@@ -1,7 +1,7 @@
 # Live Handwritten Digits detection
 
 ## Contents:
-- Waqas_kureshy_1575_cmpe258_digitsRecognition.py: is the main py file that is used for doing detections.
+- The main py file is used for doing detections.
 - Model.h5: is the weight file from the trained CNN model, that is trained on
   the MNIST dataset.
 ------------------------
