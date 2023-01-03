@@ -24,3 +24,7 @@ The digit is extracted out from the image and then resized. It is then appended
 to an array and for each digit a predication is made through the model,
 utilizing the models weights. These predictions are then casted on the
 image/feed.
+
+## Output:
+![image](https://user-images.githubusercontent.com/101527504/210415937-4001b9dc-9f46-4727-9654-7f05283debf1.png)
+
